@@ -24,7 +24,6 @@ audio {
 ```{r, echo=FALSE, message=FALSE}
 library(icons)
 library(embedr)
-library("vembedr")
 ```
 
 :::: {style="display: flex;"}
@@ -67,6 +66,8 @@ instrument. This desire for cultural expression has a large influence on his mus
 well as other contemporary artists such as **D.D Dumbo, Bombay Bicycle Club and Beach House**.
 
 The young artist is delighted to release '**Maze**'; the lush, rainforest-melancholy second single from his upcoming 'Songs From Upriver' EP. 
+
+**'Maze' is launching on all platforms on the 13th August**.
 
 ```{r img-with-knitr, echo=FALSE, fig.align='left', out.width='100%'}
 knitr::include_graphics("images/forest-1.jpeg")
